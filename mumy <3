@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+ <head>
 <script type="text/javascript">
     
     
@@ -8,3 +11,5 @@ if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/androi
 -->
     
   </script>
+<head>
+</html>
